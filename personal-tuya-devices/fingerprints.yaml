@@ -216,6 +216,11 @@ zigbeeManufacturer:
     manufacturer: _TZE200_nklqjk62
     deviceProfileName: normal-garageDoor-v1
     deviceLabel: Garage Door
+  - id: TS0601/_TZE204_nklqjk62
+    model: TS0601
+    manufacturer: _TZE204_nklqjk62
+    deviceProfileName: normal-garageDoor-v1
+    deviceLabel: Garage Door
   - id: TS0601/_TZE200_nw1r9hp6
     model: TS0601
     manufacturer: _TZE200_nw1r9hp6
